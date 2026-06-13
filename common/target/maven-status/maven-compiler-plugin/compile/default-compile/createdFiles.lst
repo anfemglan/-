@@ -1,0 +1,16 @@
+com\atafl\lease\common\redis\RedisConfiguration.class
+com\atafl\lease\common\utils\CodeUtil.class
+com\atafl\lease\common\mybatisplus\MybatisPlusConfiguration.class
+com\atafl\lease\common\exception\LeaseException.class
+com\atafl\lease\common\utils\JwtUtil.class
+com\atafl\lease\common\login\LoginUser.class
+com\atafl\lease\common\result\Result.class
+com\atafl\lease\common\sms\AliyunSMSConfiguration.class
+com\atafl\lease\common\mybatisplus\MybatisMetaObjectHandler.class
+com\atafl\lease\common\result\ResultCodeEnum.class
+com\atafl\lease\common\sms\AliyunSMSProperties.class
+com\atafl\lease\common\constant\RedisConstant.class
+com\atafl\lease\common\exception\GlobalExceptionHandler.class
+com\atafl\lease\common\login\LoginUserHolder.class
+com\atafl\lease\common\minio\MinioProperties.class
+com\atafl\lease\common\minio\MinioConfiguration.class
